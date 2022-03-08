@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Khaing Hsu Thwel
 #### Web development and programming
-I am Khaing Hsu Thwel, a passionate programmer from Myanmar. I love learning languages and frameworks like React and  Node.js (MERN stack).
+I am Khaing Hsu Thwel, a passionate programmer from Myanmar. I love learning languages and frameworks like React and  Express.js (MERN stack).
 
 Skills:  REACT / NODE/ JS / HTML / CSS/ PYTHON
 
