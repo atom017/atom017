@@ -2,7 +2,7 @@
 #### Web development and programming
 I am Khaing Hsu Thwe, a passionate programmer, from Myanmar. I love learning languages and frameworks like React and  Express.js (MERN stack).
 
-Skills:  REACT / NODE/ JS / HTML / CSS/ PYTHON
+Skills:  REACT / NODE/ JAVASCRIPT / HTML / CSS/ PYTHON
 
 - 🌱 I’m currently learning Redux
 
