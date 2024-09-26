@@ -3,9 +3,10 @@
 I am Khaing Hsu Thwe, a software engineer, from Myanmar. I have a passion for creating innovative solutions and contributing to open source community. 
 
 ## Skills
-- Programming Languages: Python, JavaScript.
-- Frameworks: React, Node.js, Flask, Django, Tensorflow, PyTorch, Langchain.
+- Programming Languages: Python, JavaScript
+- Frameworks: React, Node.js, Langchain
 - Tools: Git, Docker
+- Specializations: Computer Vision, API Development, NLP
 
 - 🌱 I’m currently polishing my skills on RAG (Retrieval Augmented Generation) and NextJs
 
